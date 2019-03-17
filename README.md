@@ -3,6 +3,9 @@
 The code is for paper: 'Structured Adversarial Attack: Towards General Implementation and Better Interpretability' which accepted in ICLR 2019
 (https://openreview.net/forum?id=BkgzniCqY7) by Kaidi Xu*, Sijia Liu*, Pu Zhao, Pin-Yu Chen, Huan Zhang, Quanfu Fan, Deniz Erdogmus, Yanzhi Wang, Xue Lin (* means equal contribution)
 
+
+Experiment Setup
+-------------------------------------
 To prepare the ImageNet dataset, download and unzip the following archive:
 
 [ImageNet Test Set](http://jaina.cs.ucdavis.edu/datasets/adv/imagenet/img.tar.gz)
