@@ -3,6 +3,17 @@
 The code is for paper: 'Structured Adversarial Attack: Towards General Implementation and Better Interpretability' which accepted in ICLR 2019
 (https://openreview.net/forum?id=BkgzniCqY7) by Kaidi Xu*, Sijia Liu*, Pu Zhao, Pin-Yu Chen, Huan Zhang, Quanfu Fan, Deniz Erdogmus, Yanzhi Wang, Xue Lin (* means equal contribution)
 
+```
+@inproceedings{
+xu2018structured,
+title={Structured Adversarial Attack:  Towards General Implementation and Better Interpretability},
+author={Kaidi Xu and Sijia Liu and Pu Zhao and Pin-Yu Chen and Huan Zhang and Quanfu Fan and Deniz Erdogmus and Yanzhi Wang and Xue Lin},
+booktitle={International Conference on Learning Representations},
+year={2019},
+url={https://openreview.net/forum?id=BkgzniCqY7},
+}
+```
+
 
 Experiment Setup
 -------------------------------------
